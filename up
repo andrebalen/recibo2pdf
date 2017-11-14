@@ -1,0 +1,3 @@
+git add *
+git commit -m '+ correcoes'
+git push -u origin master
