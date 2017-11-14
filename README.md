@@ -1,6 +1,6 @@
 # recibo2pdf
 Gerador de recibo digital configurável em js, gera pdf
 
-[https://imgur.com/RgAewDM exemplo] do recibo gerado
+[Exemplo](https://imgur.com/RgAewDM) do recibo gerado
 
-![exemplo](https://imgur.com/RgAewDM)
+![exemplo](https://i.imgur.com/RgAewDM.png)
